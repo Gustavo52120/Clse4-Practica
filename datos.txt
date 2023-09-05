@@ -1,4 +1,4 @@
 Nombres:Lalo
 Apellido: Cantero
-Hobbies:
+Hobbies: tocar la guitarra
 Películas Favoritas:
